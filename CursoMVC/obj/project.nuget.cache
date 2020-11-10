@@ -1,0 +1,2370 @@
+{
+  "version": 2,
+  "dgSpecHash": "BmsZifQlDdVeQ0v2Q8XMZ1y5ervZxLPJ2KjCERIJcT+4E20u/demVYRtxCuZQ/gQvLqpAChtpit9G0H4/+rdzg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\fnand\\OneDrive\\Documentos\\GitHub\\CursoMVC\\CursoMVC\\CursoMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.1.1\\microsoft.aspnetcore.antiforgery.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.app\\2.1.1\\microsoft.aspnetcore.app.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.1.1\\microsoft.aspnetcore.authentication.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.1.1\\microsoft.aspnetcore.authentication.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.1.1\\microsoft.aspnetcore.authentication.cookies.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.1.1\\microsoft.aspnetcore.authentication.core.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.authentication.facebook\\2.1.1\\microsoft.aspnetcore.authentication.facebook.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\2.1.1\\microsoft.aspnetcore.authentication.google.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\2.1.1\\microsoft.aspnetcore.authentication.jwtbearer.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.authentication.microsoftaccount\\2.1.1\\microsoft.aspnetcore.authentication.microsoftaccount.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.authentication.oauth\\2.1.1\\microsoft.aspnetcore.authentication.oauth.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\2.1.1\\microsoft.aspnetcore.authentication.openidconnect.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.authentication.twitter\\2.1.1\\microsoft.aspnetcore.authentication.twitter.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.authentication.wsfederation\\2.1.1\\microsoft.aspnetcore.authentication.wsfederation.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.1.1\\microsoft.aspnetcore.authorization.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.authorization.policy\\2.1.1\\microsoft.aspnetcore.authorization.policy.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\2.1.1\\microsoft.aspnetcore.connections.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.cookiepolicy\\2.1.1\\microsoft.aspnetcore.cookiepolicy.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.1.1\\microsoft.aspnetcore.cors.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\2.1.1\\microsoft.aspnetcore.cryptography.internal.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\2.1.1\\microsoft.aspnetcore.cryptography.keyderivation.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.dataprotection\\2.1.1\\microsoft.aspnetcore.dataprotection.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.dataprotection.abstractions\\2.1.1\\microsoft.aspnetcore.dataprotection.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.dataprotection.extensions\\2.1.1\\microsoft.aspnetcore.dataprotection.extensions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.diagnostics\\2.1.1\\microsoft.aspnetcore.diagnostics.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.abstractions\\2.1.1\\microsoft.aspnetcore.diagnostics.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\2.1.1\\microsoft.aspnetcore.diagnostics.entityframeworkcore.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.hostfiltering\\2.1.1\\microsoft.aspnetcore.hostfiltering.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.hosting\\2.1.1\\microsoft.aspnetcore.hosting.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.1.1\\microsoft.aspnetcore.hosting.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.1.1\\microsoft.aspnetcore.hosting.server.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.1.1\\microsoft.aspnetcore.html.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.http\\2.1.1\\microsoft.aspnetcore.http.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.1.1\\microsoft.aspnetcore.http.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.http.connections\\1.0.1\\microsoft.aspnetcore.http.connections.1.0.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\1.0.1\\microsoft.aspnetcore.http.connections.common.1.0.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.1.1\\microsoft.aspnetcore.http.extensions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.1.1\\microsoft.aspnetcore.http.features.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.httpoverrides\\2.1.1\\microsoft.aspnetcore.httpoverrides.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.httpspolicy\\2.1.1\\microsoft.aspnetcore.httpspolicy.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.identity\\2.1.1\\microsoft.aspnetcore.identity.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\2.1.1\\microsoft.aspnetcore.identity.entityframeworkcore.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\2.1.1\\microsoft.aspnetcore.identity.ui.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\2.1.1\\microsoft.aspnetcore.jsonpatch.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.localization\\2.1.1\\microsoft.aspnetcore.localization.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.localization.routing\\2.1.1\\microsoft.aspnetcore.localization.routing.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.middlewareanalysis\\2.1.1\\microsoft.aspnetcore.middlewareanalysis.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.mvc\\2.1.1\\microsoft.aspnetcore.mvc.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.1.1\\microsoft.aspnetcore.mvc.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.mvc.analyzers\\2.1.1\\microsoft.aspnetcore.mvc.analyzers.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.mvc.apiexplorer\\2.1.1\\microsoft.aspnetcore.mvc.apiexplorer.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.1.1\\microsoft.aspnetcore.mvc.core.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.mvc.cors\\2.1.1\\microsoft.aspnetcore.mvc.cors.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.mvc.dataannotations\\2.1.1\\microsoft.aspnetcore.mvc.dataannotations.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.mvc.formatters.json\\2.1.1\\microsoft.aspnetcore.mvc.formatters.json.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.mvc.formatters.xml\\2.1.1\\microsoft.aspnetcore.mvc.formatters.xml.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.mvc.localization\\2.1.1\\microsoft.aspnetcore.mvc.localization.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor\\2.1.1\\microsoft.aspnetcore.mvc.razor.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\2.1.1\\microsoft.aspnetcore.mvc.razor.extensions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.viewcompilation\\2.1.1\\microsoft.aspnetcore.mvc.razor.viewcompilation.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.mvc.razorpages\\2.1.1\\microsoft.aspnetcore.mvc.razorpages.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.mvc.taghelpers\\2.1.1\\microsoft.aspnetcore.mvc.taghelpers.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.mvc.viewfeatures\\2.1.1\\microsoft.aspnetcore.mvc.viewfeatures.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.nodeservices\\2.1.1\\microsoft.aspnetcore.nodeservices.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.owin\\2.1.1\\microsoft.aspnetcore.owin.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.1.1\\microsoft.aspnetcore.razor.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.razor.design\\2.1.2\\microsoft.aspnetcore.razor.design.2.1.2.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\2.1.1\\microsoft.aspnetcore.razor.language.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.razor.runtime\\2.1.1\\microsoft.aspnetcore.razor.runtime.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.responsecaching\\2.1.1\\microsoft.aspnetcore.responsecaching.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.responsecaching.abstractions\\2.1.1\\microsoft.aspnetcore.responsecaching.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.responsecompression\\2.1.1\\microsoft.aspnetcore.responsecompression.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.rewrite\\2.1.1\\microsoft.aspnetcore.rewrite.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.routing\\2.1.1\\microsoft.aspnetcore.routing.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.routing.abstractions\\2.1.1\\microsoft.aspnetcore.routing.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.server.httpsys\\2.1.1\\microsoft.aspnetcore.server.httpsys.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.server.iisintegration\\2.1.1\\microsoft.aspnetcore.server.iisintegration.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.server.kestrel\\2.1.1\\microsoft.aspnetcore.server.kestrel.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.server.kestrel.core\\2.1.1\\microsoft.aspnetcore.server.kestrel.core.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.server.kestrel.https\\2.1.1\\microsoft.aspnetcore.server.kestrel.https.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.server.kestrel.transport.abstractions\\2.1.1\\microsoft.aspnetcore.server.kestrel.transport.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.server.kestrel.transport.sockets\\2.1.1\\microsoft.aspnetcore.server.kestrel.transport.sockets.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.session\\2.1.1\\microsoft.aspnetcore.session.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.signalr\\1.0.1\\microsoft.aspnetcore.signalr.1.0.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\1.0.1\\microsoft.aspnetcore.signalr.common.1.0.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.signalr.core\\1.0.1\\microsoft.aspnetcore.signalr.core.1.0.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\1.0.1\\microsoft.aspnetcore.signalr.protocols.json.1.0.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.spaservices\\2.1.1\\microsoft.aspnetcore.spaservices.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\2.1.1\\microsoft.aspnetcore.spaservices.extensions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.staticfiles\\2.1.1\\microsoft.aspnetcore.staticfiles.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.websockets\\2.1.1\\microsoft.aspnetcore.websockets.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.1.1\\microsoft.aspnetcore.webutilities.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.codeanalysis.common\\2.8.0\\microsoft.codeanalysis.common.2.8.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.codeanalysis.csharp\\2.8.0\\microsoft.codeanalysis.csharp.2.8.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.codeanalysis.razor\\2.1.1\\microsoft.codeanalysis.razor.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\2.1.0\\microsoft.dotnet.platformabstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.entityframeworkcore\\2.1.1\\microsoft.entityframeworkcore.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\2.1.1\\microsoft.entityframeworkcore.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\2.1.1\\microsoft.entityframeworkcore.analyzers.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.entityframeworkcore.design\\2.1.1\\microsoft.entityframeworkcore.design.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\2.1.1\\microsoft.entityframeworkcore.inmemory.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\2.1.1\\microsoft.entityframeworkcore.relational.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\2.1.1\\microsoft.entityframeworkcore.sqlserver.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\2.1.1\\microsoft.entityframeworkcore.tools.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\2.1.1\\microsoft.extensions.caching.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.caching.memory\\2.1.1\\microsoft.extensions.caching.memory.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.caching.sqlserver\\2.1.1\\microsoft.extensions.caching.sqlserver.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.1\\microsoft.extensions.configuration.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.1\\microsoft.extensions.configuration.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.1.1\\microsoft.extensions.configuration.binder.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.configuration.commandline\\2.1.1\\microsoft.extensions.configuration.commandline.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\2.1.1\\microsoft.extensions.configuration.environmentvariables.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\2.1.1\\microsoft.extensions.configuration.fileextensions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.configuration.ini\\2.1.1\\microsoft.extensions.configuration.ini.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.configuration.json\\2.1.1\\microsoft.extensions.configuration.json.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.configuration.keyperfile\\2.1.1\\microsoft.extensions.configuration.keyperfile.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\2.1.1\\microsoft.extensions.configuration.usersecrets.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.configuration.xml\\2.1.1\\microsoft.extensions.configuration.xml.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.1.1\\microsoft.extensions.dependencyinjection.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.1\\microsoft.extensions.dependencyinjection.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.dependencymodel\\2.1.0\\microsoft.extensions.dependencymodel.2.1.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.diagnosticadapter\\2.1.0\\microsoft.extensions.diagnosticadapter.2.1.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\2.1.1\\microsoft.extensions.fileproviders.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.fileproviders.composite\\2.1.1\\microsoft.extensions.fileproviders.composite.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\2.1.1\\microsoft.extensions.fileproviders.embedded.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\2.1.1\\microsoft.extensions.fileproviders.physical.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\2.1.1\\microsoft.extensions.filesystemglobbing.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.hosting\\2.1.1\\microsoft.extensions.hosting.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\2.1.1\\microsoft.extensions.hosting.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.http\\2.1.1\\microsoft.extensions.http.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.identity.core\\2.1.1\\microsoft.extensions.identity.core.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.identity.stores\\2.1.1\\microsoft.extensions.identity.stores.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.localization\\2.1.1\\microsoft.extensions.localization.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\2.1.1\\microsoft.extensions.localization.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.logging\\2.1.1\\microsoft.extensions.logging.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.logging.configuration\\2.1.1\\microsoft.extensions.logging.configuration.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.logging.console\\2.1.1\\microsoft.extensions.logging.console.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.logging.debug\\2.1.1\\microsoft.extensions.logging.debug.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.logging.eventsource\\2.1.1\\microsoft.extensions.logging.eventsource.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.logging.tracesource\\2.1.1\\microsoft.extensions.logging.tracesource.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.objectpool\\2.1.1\\microsoft.extensions.objectpool.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.options\\2.1.1\\microsoft.extensions.options.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\2.1.1\\microsoft.extensions.options.configurationextensions.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.1\\microsoft.extensions.primitives.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.extensions.webencoders\\2.1.1\\microsoft.extensions.webencoders.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.identitymodel.logging\\5.2.0\\microsoft.identitymodel.logging.5.2.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.identitymodel.protocols\\5.2.0\\microsoft.identitymodel.protocols.5.2.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\5.2.0\\microsoft.identitymodel.protocols.openidconnect.5.2.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.identitymodel.protocols.wsfederation\\5.2.0\\microsoft.identitymodel.protocols.wsfederation.5.2.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.2.0\\microsoft.identitymodel.tokens.5.2.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.identitymodel.tokens.saml\\5.2.0\\microsoft.identitymodel.tokens.saml.5.2.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.identitymodel.xml\\5.2.0\\microsoft.identitymodel.xml.5.2.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.net.http.headers\\2.1.1\\microsoft.net.http.headers.2.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\remotion.linq\\2.2.0\\remotion.linq.2.2.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\runtime.native.system.io.compression\\4.3.0\\runtime.native.system.io.compression.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\runtime.native.system.net.http\\4.3.0\\runtime.native.system.net.http.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\runtime.native.system.security.cryptography.apple\\4.3.0\\runtime.native.system.security.cryptography.apple.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\runtime.opensuse.13.2-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.opensuse.13.2-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\runtime.opensuse.42.1-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.opensuse.42.1-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple\\4.3.0\\runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\runtime.osx.10.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.osx.10.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.collections.specialized\\4.3.0\\system.collections.specialized.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.data.sqlclient\\4.5.1\\system.data.sqlclient.4.5.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.diagnostics.contracts\\4.3.0\\system.diagnostics.contracts.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.0\\system.diagnostics.diagnosticsource.4.5.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.diagnostics.fileversioninfo\\4.3.0\\system.diagnostics.fileversioninfo.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.diagnostics.stacktrace\\4.3.0\\system.diagnostics.stacktrace.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.diagnostics.tools\\4.3.0\\system.diagnostics.tools.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0\\system.diagnostics.tracing.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.dynamic.runtime\\4.3.0\\system.dynamic.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.globalization.calendars\\4.3.0\\system.globalization.calendars.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.globalization.extensions\\4.3.0\\system.globalization.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.identitymodel.tokens.jwt\\5.2.0\\system.identitymodel.tokens.jwt.5.2.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.interactive.async\\3.1.1\\system.interactive.async.3.1.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.io.compression\\4.3.0\\system.io.compression.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.io.filesystem\\4.3.0\\system.io.filesystem.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.io.pipelines\\4.5.0\\system.io.pipelines.4.5.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.linq.queryable\\4.0.1\\system.linq.queryable.4.0.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.net.http\\4.3.0\\system.net.http.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.net.primitives\\4.3.0\\system.net.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.net.websockets.websocketprotocol\\4.5.1\\system.net.websockets.websocketprotocol.4.5.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.objectmodel\\4.3.0\\system.objectmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.private.datacontractserialization\\4.3.0\\system.private.datacontractserialization.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.runtime.handles\\4.3.0\\system.runtime.handles.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.runtime.interopservices\\4.3.0\\system.runtime.interopservices.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.runtime.numerics\\4.3.0\\system.runtime.numerics.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.runtime.serialization.primitives\\4.3.0\\system.runtime.serialization.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.runtime.serialization.xml\\4.3.0\\system.runtime.serialization.xml.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.security.claims\\4.3.0\\system.security.claims.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.security.cryptography.algorithms\\4.3.0\\system.security.cryptography.algorithms.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.security.cryptography.csp\\4.3.0\\system.security.cryptography.csp.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.security.cryptography.encoding\\4.3.0\\system.security.cryptography.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.security.cryptography.openssl\\4.3.0\\system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.security.cryptography.pkcs\\4.5.0\\system.security.cryptography.pkcs.4.5.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.security.cryptography.primitives\\4.3.0\\system.security.cryptography.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0\\system.security.cryptography.x509certificates.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.security.cryptography.xml\\4.5.0\\system.security.cryptography.xml.4.5.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.security.principal\\4.3.0\\system.security.principal.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0\\system.text.encoding.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.text.regularexpressions\\4.3.0\\system.text.regularexpressions.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.threading.channels\\4.5.0\\system.threading.channels.4.5.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.1\\system.threading.tasks.extensions.4.5.1.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.threading.tasks.parallel\\4.3.0\\system.threading.tasks.parallel.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.threading.thread\\4.3.0\\system.threading.thread.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.valuetuple\\4.3.0\\system.valuetuple.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
+    "C:\\Users\\fnand\\.nuget\\packages\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Collections 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Collections",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Collections.Concurrent 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Collections.Concurrent",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Diagnostics.Contracts 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Diagnostics.Contracts",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Diagnostics.Debug 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Diagnostics.Debug",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Diagnostics.Tools 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Diagnostics.Tools",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Diagnostics.Tracing 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Diagnostics.Tracing",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Dynamic.Runtime 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Dynamic.Runtime",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Globalization 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Globalization",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.IO 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.IO",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.IO.Compression 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.IO.Compression",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Linq 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Linq",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Linq.Expressions 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Linq.Expressions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Linq.Queryable 4.0.1' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Linq.Queryable",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Net.Http 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Net.Http",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Net.Primitives 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Net.Primitives",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.ObjectModel 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.ObjectModel",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Reflection 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Reflection",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Reflection.Emit 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Reflection.Emit",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Reflection.Emit.ILGeneration 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Reflection.Emit.ILGeneration",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Reflection.Emit.Lightweight 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Reflection.Emit.Lightweight",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Reflection.Extensions 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Reflection.Extensions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Reflection.Primitives 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Reflection.Primitives",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Resources.ResourceManager 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Resources.ResourceManager",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Runtime 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Runtime",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Runtime.Extensions 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Runtime.Extensions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Runtime.Handles 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Runtime.Handles",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Runtime.InteropServices 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Runtime.InteropServices",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Runtime.Numerics 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Runtime.Numerics",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Runtime.Serialization.Primitives 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Runtime.Serialization.Primitives",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Runtime.Serialization.Xml 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Runtime.Serialization.Xml",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Security.Principal 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Security.Principal",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Text.Encoding 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Text.Encoding",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Text.Encoding.Extensions 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Text.Encoding.Extensions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Text.RegularExpressions 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Text.RegularExpressions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Threading 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Threading",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Threading.Tasks 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Threading.Tasks",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Threading.Tasks.Parallel 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Threading.Tasks.Parallel",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Xml.ReaderWriter 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Xml.ReaderWriter",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Xml.XDocument 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Xml.XDocument",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Xml.XmlSerializer 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Xml.XmlSerializer",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNet.WebApi.Client 5.2.6 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNet.WebApi.Client 5.2.6 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNet.WebApi.Client",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Antiforgery 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Antiforgery 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Antiforgery",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Authentication 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Authentication 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Authentication",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Authentication.Abstractions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Authentication.Abstractions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Authentication.Abstractions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Authentication.Cookies 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Authentication.Cookies 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Authentication.Cookies",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Authentication.Core 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Authentication.Core 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Authentication.Core",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Authentication.Facebook 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Authentication.Facebook 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Authentication.Facebook",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Authentication.Google 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Authentication.Google 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Authentication.Google",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Authentication.JwtBearer 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Authentication.JwtBearer 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Authentication.JwtBearer",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Authentication.MicrosoftAccount 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Authentication.MicrosoftAccount 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Authentication.MicrosoftAccount",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Authentication.OAuth 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Authentication.OAuth 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Authentication.OAuth",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Authentication.OpenIdConnect 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Authentication.OpenIdConnect 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Authentication.OpenIdConnect",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Authentication.Twitter 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Authentication.Twitter 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Authentication.Twitter",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Authentication.WsFederation 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Authentication.WsFederation 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Authentication.WsFederation",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Authorization 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Authorization 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Authorization",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Authorization.Policy 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Authorization.Policy 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Authorization.Policy",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Connections.Abstractions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Connections.Abstractions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Connections.Abstractions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.CookiePolicy 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.CookiePolicy 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.CookiePolicy",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Cors 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Cors 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Cors",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Cryptography.Internal 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Cryptography.Internal 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Cryptography.Internal",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Cryptography.KeyDerivation 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Cryptography.KeyDerivation 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Cryptography.KeyDerivation",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.DataProtection 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.DataProtection 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.DataProtection",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.DataProtection.Abstractions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.DataProtection.Abstractions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.DataProtection.Abstractions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.DataProtection.Extensions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.DataProtection.Extensions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.DataProtection.Extensions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Diagnostics 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Diagnostics 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Diagnostics",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Diagnostics.Abstractions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Diagnostics.Abstractions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Diagnostics.Abstractions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.HostFiltering 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.HostFiltering 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.HostFiltering",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Hosting 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Hosting 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Hosting",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Hosting.Abstractions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Hosting.Abstractions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Hosting.Abstractions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Hosting.Server.Abstractions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Hosting.Server.Abstractions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Hosting.Server.Abstractions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Html.Abstractions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Html.Abstractions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Html.Abstractions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Http 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Http 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Http",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Http.Abstractions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Http.Abstractions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Http.Abstractions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Http.Connections 1.0.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Http.Connections 1.0.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Http.Connections",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Http.Connections.Common 1.0.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Http.Connections.Common 1.0.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Http.Connections.Common",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Http.Extensions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Http.Extensions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Http.Extensions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Http.Features 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Http.Features 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Http.Features",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.HttpOverrides 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.HttpOverrides 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.HttpOverrides",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.HttpsPolicy 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.HttpsPolicy 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.HttpsPolicy",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Identity 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Identity 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Identity",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Identity.EntityFrameworkCore 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Identity.EntityFrameworkCore 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Identity.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.JsonPatch 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.JsonPatch 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.JsonPatch",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Localization 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Localization 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Localization",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Localization.Routing 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Localization.Routing 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Localization.Routing",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.MiddlewareAnalysis 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.MiddlewareAnalysis 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.MiddlewareAnalysis",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Mvc 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Mvc 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Mvc",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Mvc.Abstractions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Mvc.Abstractions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.Abstractions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Mvc.ApiExplorer 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Mvc.ApiExplorer 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.ApiExplorer",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Mvc.Core 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Mvc.Core 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.Core",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Mvc.Cors 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Mvc.Cors 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.Cors",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Mvc.DataAnnotations 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Mvc.DataAnnotations 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.DataAnnotations",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Mvc.Formatters.Json 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Mvc.Formatters.Json 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.Formatters.Json",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Mvc.Formatters.Xml 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Mvc.Formatters.Xml 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.Formatters.Xml",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Mvc.Localization 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Mvc.Localization 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.Localization",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Mvc.Razor 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Mvc.Razor 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.Razor",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Mvc.RazorPages 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Mvc.RazorPages 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.RazorPages",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Mvc.TagHelpers 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Mvc.TagHelpers 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.TagHelpers",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Mvc.ViewFeatures 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Mvc.ViewFeatures 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.ViewFeatures",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.NodeServices 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.NodeServices 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.NodeServices",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Owin 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Owin 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Owin",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Razor 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Razor 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Razor",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Razor.Language 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Razor.Language 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Razor.Language",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Razor.Runtime 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Razor.Runtime 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Razor.Runtime",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.ResponseCaching 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.ResponseCaching 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.ResponseCaching",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.ResponseCaching.Abstractions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.ResponseCaching.Abstractions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.ResponseCaching.Abstractions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.ResponseCompression 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.ResponseCompression 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.ResponseCompression",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Rewrite 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Rewrite 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Rewrite",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Routing 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Routing 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Routing",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Routing.Abstractions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Routing.Abstractions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Routing.Abstractions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Server.HttpSys 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Server.HttpSys 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Server.HttpSys",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Server.IISIntegration 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Server.IISIntegration 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Server.IISIntegration",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Server.Kestrel 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Server.Kestrel 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Server.Kestrel",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Server.Kestrel.Core 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Server.Kestrel.Core 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Server.Kestrel.Core",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Server.Kestrel.Https 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Server.Kestrel.Https 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Server.Kestrel.Https",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.Session 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.Session 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.Session",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.SignalR 1.0.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.SignalR 1.0.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.SignalR",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.SignalR.Common 1.0.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.SignalR.Common 1.0.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.SignalR.Common",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.SignalR.Core 1.0.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.SignalR.Core 1.0.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.SignalR.Core",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.SignalR.Protocols.Json 1.0.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.SignalR.Protocols.Json 1.0.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.SignalR.Protocols.Json",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.SpaServices 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.SpaServices 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.SpaServices",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.SpaServices.Extensions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.SpaServices.Extensions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.SpaServices.Extensions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.StaticFiles 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.StaticFiles 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.StaticFiles",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.WebSockets 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.WebSockets 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.WebSockets",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.AspNetCore.WebUtilities 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.AspNetCore.WebUtilities 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.AspNetCore.WebUtilities",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.CodeAnalysis.Razor 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.CodeAnalysis.Razor 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.CodeAnalysis.Razor",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.EntityFrameworkCore 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.EntityFrameworkCore 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.EntityFrameworkCore.Abstractions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.EntityFrameworkCore.Abstractions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Abstractions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.EntityFrameworkCore.InMemory 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.EntityFrameworkCore.InMemory 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.EntityFrameworkCore.InMemory",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.EntityFrameworkCore.Relational 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.EntityFrameworkCore.Relational 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Relational",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.EntityFrameworkCore.SqlServer 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.EntityFrameworkCore.SqlServer 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Caching.Abstractions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Caching.Abstractions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Caching.Abstractions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Caching.Memory 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Caching.Memory 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Caching.Memory",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Caching.SqlServer 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Caching.SqlServer 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Caching.SqlServer",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Configuration 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Configuration 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Configuration",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Configuration.Abstractions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Configuration.Abstractions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Configuration.Abstractions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Configuration.Binder 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Configuration.Binder 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Configuration.Binder",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Configuration.CommandLine 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Configuration.CommandLine 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Configuration.CommandLine",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Configuration.EnvironmentVariables 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Configuration.EnvironmentVariables 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Configuration.EnvironmentVariables",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Configuration.FileExtensions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Configuration.FileExtensions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Configuration.FileExtensions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Configuration.Ini 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Configuration.Ini 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Configuration.Ini",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Configuration.Json 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Configuration.Json 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Configuration.Json",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Configuration.KeyPerFile 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Configuration.KeyPerFile 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Configuration.KeyPerFile",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Configuration.Xml 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Configuration.Xml 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Configuration.Xml",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.DependencyInjection 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.DependencyInjection 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.DependencyInjection.Abstractions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.DependencyInjection.Abstractions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.DiagnosticAdapter 2.1.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.DiagnosticAdapter 2.1.0 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.DiagnosticAdapter",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.FileProviders.Abstractions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.FileProviders.Abstractions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.FileProviders.Abstractions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.FileProviders.Composite 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.FileProviders.Composite 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.FileProviders.Composite",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.FileProviders.Physical 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.FileProviders.Physical 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.FileProviders.Physical",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.FileSystemGlobbing 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.FileSystemGlobbing 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.FileSystemGlobbing",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Hosting 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Hosting 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Hosting",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Hosting.Abstractions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Hosting.Abstractions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Hosting.Abstractions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Http 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Http 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Http",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Identity.Core 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Identity.Core 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Identity.Core",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Identity.Stores 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Identity.Stores 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Identity.Stores",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Localization 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Localization 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Localization",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Localization.Abstractions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Localization.Abstractions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Localization.Abstractions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Logging 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Logging 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Logging",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Logging.Abstractions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Logging.Abstractions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Logging.Configuration 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Logging.Configuration 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Logging.Configuration",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Logging.Console 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Logging.Console 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Logging.Console",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Logging.Debug 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Logging.Debug 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Logging.Debug",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Logging.EventSource 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Logging.EventSource 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Logging.EventSource",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Logging.TraceSource 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Logging.TraceSource 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Logging.TraceSource",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.ObjectPool 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.ObjectPool 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.ObjectPool",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Options 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Options 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Options",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Options.ConfigurationExtensions 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Options.ConfigurationExtensions 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Options.ConfigurationExtensions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.Primitives 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.Primitives 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.Primitives",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Extensions.WebEncoders 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Extensions.WebEncoders 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Extensions.WebEncoders",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Net.Http.Headers 2.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Net.Http.Headers 2.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Net.Http.Headers",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Newtonsoft.Json.Bson 1.0.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Newtonsoft.Json.Bson 1.0.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Newtonsoft.Json.Bson",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.IdentityModel.Protocols.OpenIdConnect 5.2.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.IdentityModel.Protocols.OpenIdConnect 5.2.0 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.IdentityModel.Protocols.OpenIdConnect",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Newtonsoft.Json 11.0.2 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Newtonsoft.Json 11.0.2 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.IdentityModel.Protocols.WsFederation 5.2.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.IdentityModel.Protocols.WsFederation 5.2.0 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.IdentityModel.Protocols.WsFederation",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.IdentityModel.Tokens.Jwt 5.2.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.IdentityModel.Tokens.Jwt 5.2.0 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "System.IdentityModel.Tokens.Jwt",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.IO.Pipelines 4.5.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.IO.Pipelines 4.5.0 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "System.IO.Pipelines",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.Win32.Registry 4.5.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.Win32.Registry 4.5.0 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.Win32.Registry",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Security.Cryptography.Xml 4.5.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Security.Cryptography.Xml 4.5.0 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "System.Security.Cryptography.Xml",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Security.Principal.Windows 4.5.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Security.Principal.Windows 4.5.0 dá suporte a: uap10.0.16299 (UAP,Version=v10.0.16299)",
+      "libraryId": "System.Security.Principal.Windows",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Diagnostics.DiagnosticSource 4.5.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Diagnostics.DiagnosticSource 4.5.0 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "System.Diagnostics.DiagnosticSource",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Reflection.Metadata 1.6.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Reflection.Metadata 1.6.0 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "System.Reflection.Metadata",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Text.Encodings.Web 4.5.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Text.Encodings.Web 4.5.0 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "System.Text.Encodings.Web",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.CodeAnalysis.CSharp 2.8.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.CodeAnalysis.CSharp 2.8.0 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Runtime.CompilerServices.Unsafe 4.5.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Runtime.CompilerServices.Unsafe 4.5.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "System.Runtime.CompilerServices.Unsafe",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Security.Cryptography.Cng 4.5.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Security.Cryptography.Cng 4.5.0 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - uap10.0.16299 (UAP,Version=v10.0.16299)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.Security.Cryptography.Cng",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Threading.Channels 4.5.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Threading.Channels 4.5.0 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "System.Threading.Channels",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.CodeAnalysis.Common 2.8.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.CodeAnalysis.Common 2.8.0 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.CodeAnalysis.Common",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Remotion.Linq 2.2.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Remotion.Linq 2.2.0 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Remotion.Linq",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Collections.Immutable 1.5.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Collections.Immutable 1.5.0 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "System.Collections.Immutable",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Interactive.Async 3.1.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Interactive.Async 3.1.1 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "System.Interactive.Async",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Data.SqlClient 4.5.1 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Data.SqlClient 4.5.1 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.Data.SqlClient",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.IdentityModel.Protocols 5.2.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.IdentityModel.Protocols 5.2.0 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.IdentityModel.Protocols",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.IdentityModel.Tokens.Saml 5.2.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.IdentityModel.Tokens.Saml 5.2.0 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.IdentityModel.Tokens.Saml",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.IdentityModel.Xml 5.2.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.IdentityModel.Xml 5.2.0 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.IdentityModel.Xml",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Xml.XmlDocument 4.3.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Xml.XmlDocument 4.3.0 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.Xml.XmlDocument",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.IdentityModel.Tokens 5.2.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.IdentityModel.Tokens 5.2.0 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.IdentityModel.Tokens",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Security.AccessControl 4.5.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Security.AccessControl 4.5.0 dá suporte a: uap10.0.16299 (UAP,Version=v10.0.16299)",
+      "libraryId": "System.Security.AccessControl",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Security.Cryptography.Pkcs 4.5.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Security.Cryptography.Pkcs 4.5.0 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "System.Security.Cryptography.Pkcs",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Security.Permissions 4.5.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Security.Permissions 4.5.0 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "System.Security.Permissions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.AppContext 4.3.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.AppContext 4.3.0 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - netstandard (.NETStandard,Version=v0.0)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.AppContext",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Console 4.3.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Console 4.3.0 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.Console",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Diagnostics.FileVersionInfo 4.3.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Diagnostics.FileVersionInfo 4.3.0 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.Diagnostics.FileVersionInfo",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Diagnostics.StackTrace 4.3.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Diagnostics.StackTrace 4.3.0 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.Diagnostics.StackTrace",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.IO.FileSystem 4.3.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.IO.FileSystem 4.3.0 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.IO.FileSystem",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.IO.FileSystem.Primitives 4.3.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.IO.FileSystem.Primitives 4.3.0 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.IO.FileSystem.Primitives",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Security.Cryptography.Algorithms 4.3.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Security.Cryptography.Algorithms 4.3.0 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.Security.Cryptography.Algorithms",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Security.Cryptography.Encoding 4.3.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Security.Cryptography.Encoding 4.3.0 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.Security.Cryptography.Encoding",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Security.Cryptography.X509Certificates 4.3.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Security.Cryptography.X509Certificates 4.3.0 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.Security.Cryptography.X509Certificates",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Threading.Thread 4.3.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Threading.Thread 4.3.0 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - netcore50 (.NETCore,Version=v5.0)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.Threading.Thread",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.ValueTuple 4.3.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.ValueTuple 4.3.0 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "System.ValueTuple",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Xml.XPath.XDocument 4.3.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Xml.XPath.XDocument 4.3.0 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.Xml.XPath.XDocument",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Text.Encoding.CodePages 4.5.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Text.Encoding.CodePages 4.5.0 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.Text.Encoding.CodePages",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote Microsoft.IdentityModel.Logging 5.2.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote Microsoft.IdentityModel.Logging 5.2.0 não dá suporte a nenhuma estrutura de destino.",
+      "libraryId": "Microsoft.IdentityModel.Logging",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Collections.Specialized 4.3.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Collections.Specialized 4.3.0 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.Collections.Specialized",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Reflection.TypeExtensions 4.3.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Reflection.TypeExtensions 4.3.0 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.Reflection.TypeExtensions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Runtime.InteropServices.RuntimeInformation 4.3.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Runtime.InteropServices.RuntimeInformation 4.3.0 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.Runtime.InteropServices.RuntimeInformation",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Security.Claims 4.3.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Security.Claims 4.3.0 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.Security.Claims",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Security.Cryptography.Primitives 4.3.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Security.Cryptography.Primitives 4.3.0 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.Security.Cryptography.Primitives",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Globalization.Calendars 4.3.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Globalization.Calendars 4.3.0 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.Globalization.Calendars",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Security.Cryptography.Csp 4.3.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Security.Cryptography.Csp 4.3.0 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.Security.Cryptography.Csp",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Xml.XPath 4.3.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Xml.XPath 4.3.0 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.Xml.XPath",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Collections.NonGeneric 4.3.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Collections.NonGeneric 4.3.0 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.Collections.NonGeneric",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "O pacote System.Globalization.Extensions 4.3.0 não é compatível com netcoreapp2.1 (.NETCoreApp,Version=v2.1). O pacote System.Globalization.Extensions 4.3.0 dá suporte a:\r\n  - monoandroid10 (MonoAndroid,Version=v1.0)\r\n  - monotouch10 (MonoTouch,Version=v1.0)\r\n  - xamarinios10 (Xamarin.iOS,Version=v1.0)\r\n  - xamarinmac20 (Xamarin.Mac,Version=v2.0)\r\n  - xamarintvos10 (Xamarin.TVOS,Version=v1.0)\r\n  - xamarinwatchos10 (Xamarin.WatchOS,Version=v1.0)",
+      "libraryId": "System.Globalization.Extensions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    }
+  ]
+}
